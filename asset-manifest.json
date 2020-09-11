@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/amphotography/static/css/main.88f5c016.chunk.css",
+    "main.js": "/amphotography/static/js/main.4d1aeaa3.chunk.js",
+    "main.js.map": "/amphotography/static/js/main.4d1aeaa3.chunk.js.map",
+    "runtime-main.js": "/amphotography/static/js/runtime-main.4fdfdf6a.js",
+    "runtime-main.js.map": "/amphotography/static/js/runtime-main.4fdfdf6a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/amphotography/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.aed67996.chunk.js": "/amphotography/static/js/2.aed67996.chunk.js",
+    "static/js/2.aed67996.chunk.js.map": "/amphotography/static/js/2.aed67996.chunk.js.map",
+    "index.html": "/amphotography/index.html",
+    "precache-manifest.b8ed4354a266a3352906412d35e9390c.js": "/amphotography/precache-manifest.b8ed4354a266a3352906412d35e9390c.js",
+    "service-worker.js": "/amphotography/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/amphotography/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.88f5c016.chunk.css.map": "/amphotography/static/css/main.88f5c016.chunk.css.map",
+    "static/js/2.aed67996.chunk.js.LICENSE.txt": "/amphotography/static/js/2.aed67996.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/amphotography/static/media/two.8634aa32.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fdfdf6a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.aed67996.chunk.js",
+    "static/css/main.88f5c016.chunk.css",
+    "static/js/main.4d1aeaa3.chunk.js"
+  ]
+}
