@@ -13,7 +13,7 @@ export default class JumboTwo extends Component {
                
                <Row>
                <Col sm="4">
-                <h1><span className="band">Outdoor and FreeStyle Shoot</span></h1>
+                <h1><span className="band">Outdoor and Free-style Capture</span></h1>
                </Col>
                <Col xs="12" sm="4"></Col>
                <Col sm="4"></Col>
