@@ -42,7 +42,7 @@ class ContactForm extends Component {
                 <Container id="contact">
                     <h1 className="h1">Get in Touch</h1>
                     <hr className="heading-horizon" />
-                    <h3 className="insta"> <span className="handle">Instagram Handle: @proriginallee</span></h3>
+                    <h3 className="insta"> <span className="handle">Instagram Handle: @ahsellmo</span></h3>
                 </Container>
             </div>
 
